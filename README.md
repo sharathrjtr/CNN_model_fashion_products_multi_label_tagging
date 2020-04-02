@@ -1,0 +1,1 @@
+# CNN_model_fashion_products_multi_label_tagging
